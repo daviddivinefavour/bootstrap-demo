@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviddivinefavour/bootstrap-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviddivinefavour/bootstrap-demo/issues"
+  },
+  "homepage": "https://github.com/daviddivinefavour/bootstrap-demo#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "pug": "^3.0.2"
+  }
+}
