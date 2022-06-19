@@ -1,0 +1,9 @@
+.carousel-inner>.carousel-item>img {
+     max-height: 600px;
+}
+
+
+body{
+     background: rgba(90, 155, 155, 0.322);
+}
+
